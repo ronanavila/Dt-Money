@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento pessoal",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-05-10T09:58:32.106Z"
+    },
+    {
+      "id": 2,
+      "description": "Alimentação",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 10,
+      "createdAt": "2024-05-10T10:10:32.106Z"
+    },
+    {
+      "description": "Hamburger",
+      "price": 500,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2024-05-14T10:31:31.390Z",
+      "id": 3
+    },
+    {
+      "description": "Hamburger",
+      "price": 500,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2024-05-14T10:32:30.739Z",
+      "id": 4
+    },
+    {
+      "description": "Banana",
+      "price": 12,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2024-05-14T10:37:17.417Z",
+      "id": 5
+    },
+    {
+      "description": "Pizza",
+      "price": 50,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2024-05-14T10:50:21.771Z",
+      "id": 6
+    },
+    {
+      "description": "aa",
+      "price": 3,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2024-05-14T10:50:42.743Z",
+      "id": 7
+    },
+    {
+      "description": "Curso",
+      "price": 600,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2024-05-14T10:51:51.368Z",
+      "id": 8
+    },
+    {
+      "description": "Pessego",
+      "price": 12,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-05-14T10:56:05.723Z",
+      "id": 9
+    }
+  ]
+}
